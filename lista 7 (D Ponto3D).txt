@@ -1,0 +1,1 @@
+A principal diferença entre ambas as relações de classes e a herança é a possibilidade de ultilizar os atributos e metodos da classe pai diretamente sem ter que intanciar um objeto de ponto2D dentro do construtor de ponto3D
